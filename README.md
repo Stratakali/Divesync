@@ -38,7 +38,10 @@ Setup
 
 Clone the repository:
 
-git clone https://github.com/yourusername/divesync.git
+git clone 
+
+https://github.com/Stratakali/Divesync.git
+
 cd divesync
 
 Install dependencies:
