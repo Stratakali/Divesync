@@ -102,4 +102,4 @@ DiveSync is licensed under the MIT License.
 
 Contact
 
-For inquiries, support, or feature requests, contact
+For inquiries, support, or feature requests, contact info@oceanova.nz
