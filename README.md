@@ -76,7 +76,7 @@ Mobile app integration for real-time logging.
 
 ![Screenshot 2025-03-31 105344](https://github.com/user-attachments/assets/a6e7f348-218b-4ff7-8488-eb9a872aba9c)
 
-AI-powered risk assessment for dive planning.
+ risk assessment for dive planning.
 
 ![Screenshot 2025-03-31 105411](https://github.com/user-attachments/assets/6ca7c7f9-28d1-44c1-a0c4-b4091c73ba71)
 
@@ -87,12 +87,6 @@ API support for third-party integrations.
 Contributing
 
 We welcome contributions! To contribute:
-
-Fork the repository.
-
-Create a new branch (feature/your-feature).
-
-Commit your changes.
 
 Push the branch and create a pull request.
 
